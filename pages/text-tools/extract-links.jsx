@@ -241,7 +241,7 @@ export default function ExtractLinks() {
           you can quickly and accurately extract links from any piece of text, making it easier to clean 
           up and understand.</p>
 
-        <p>Also check out <a href='./text-tools/extract-links'>Email Extractor tool</a> that extracts email From
+        <p>Also check out <a href='./text-tools/extract-email'>Email Extractor tool</a> that extracts email From
         text.</p>
 
       </div>
