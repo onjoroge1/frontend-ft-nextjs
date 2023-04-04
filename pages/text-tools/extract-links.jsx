@@ -196,11 +196,14 @@ export default function ExtractLinks() {
 
       <div className='text-body'>
         <p>
-          Extracting links from text can be a useful skill in many different
-          contexts. For example, you might want to extract links from a blog
-          post or article to create a table of contents, or you might want to
-          extract links from a social media post to see which websites are being
-          shared.
+        Link extraction, also known as URL extraction, is the process of extracting 
+        links (also known as URLs, or uniform resource locators) from a piece of text. 
+        A link is a string of text that contains the address of a web page, and it 
+        typically begins with the http or https protocol. Extracting links from text 
+        can be a useful skill in many different contexts. For example, you might want 
+        to extract links from a blog post or article to create a table of contents, or 
+        you might want to extract links from a social media post to see which websites 
+        are being shared.
         </p>
         <p>
           There are many different tools and techniques that you can use to
@@ -217,38 +220,30 @@ export default function ExtractLinks() {
           address of a web page, and it typically begins with the http or https
           protocol.
         </p>
-        <p>
-          Link extraction involves finding and extracting these links from a
-          piece of text. This can be a useful skill in many different contexts,
-          as we'll discuss in the next section.
-        </p>
+
         <h2>Why use link extraction?</h2>
         <p>
-          There are many different reasons why you might want to use link
-          extraction. Here are just a few examples:
+        There are many different reasons why you might want to use link extraction. 
+        For example, if you're creating a long-form piece of content, such as a blog 
+        post or article, you might want to create a table of contents that allows readers 
+        to quickly jump to different sections of the text. By using link extraction, you 
+        can quickly generate a list of links to the different sections of your post, making 
+        it easy for readers to navigate. Additionally, if you're analyzing social media data, 
+        you might want to extract links from posts to see which websites are being shared. 
+        Our link extractor tool can help you quickly and accurately extract links from social 
+        media posts, allowing you to analyze which websites are receiving the most traffic from 
+        social media.
         </p>
-        <ul>
-          <li>
-            Creating a table of contents: if you're writing a long blog post or
-            article, you might want to create a table of contents that allows
-            readers to quickly jump to different sections of the text. You can
-            use link extraction to quickly generate a list of links to the
-            different sections of your post, making it easy for readers to
-            navigate.
-          </li>
-          <li>
-            Analyzing social media posts: if you're analyzing social media data,
-            you might want to extract links from posts to see which websites are
-            being shared. You can use link extraction to quickly and accurately
-            extract links from social media posts, allowing you to analyze which
-            websites are receiving the most traffic from social media.
-          </li>
-          <li>
-            Cleaning up text: if you have a piece of text that contains a lot of
-            links, it can be difficult to read and understand. You can use link
-            extraction to remove the links
-          </li>
-        </ul>
+
+        <p>There are many different tools and techniques that you can use to extract links from text,
+           but our free link extractor tool is one of the best. It's easy to use and completely free,
+          making it the perfect choice for anyone who needs to extract links from text. With our tool, 
+          you can quickly and accurately extract links from any piece of text, making it easier to clean 
+          up and understand.</p>
+
+        <p>Also check out <a href='./text-tools/extract-links'>Email Extractor tool</a> that extracts email From
+        text.</p>
+
       </div>
 
       <Footer />
